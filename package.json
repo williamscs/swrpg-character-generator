@@ -1,0 +1,16 @@
+{
+  "name": "swrpg-character-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "author": "Chris Williams",
+  "license": "BSD"
+}
